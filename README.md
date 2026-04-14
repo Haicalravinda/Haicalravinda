@@ -72,17 +72,6 @@ Fresh graduate in Information Systems from **Gunadarma University** (GPA: **3.77
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Haical's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haicalravinda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haicalravinda&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🏅 Certifications Highlights
 
