@@ -24,7 +24,7 @@
 
 Fresh graduate in Information Systems from **Gunadarma University** (GPA: **3.77/4.00**) with hands-on experience building real-world web applications — from government portals to e-commerce platforms.
 
-- 🏗️ Currently building **[sip.ditsar.id](https://sip.ditsar.id/)** — a public fisheries data portal for the Indonesian Ministry of Marine Affairs & Fisheries
+- 🏗️ Currently building a public fisheries data portal for the Indonesian Ministry of Marine Affairs & Fisheries
 - 🌱 Always learning — exploring **Go**, **TypeScript**, and **cloud-native** architectures
 - 🤝 Open to **freelance projects** and **full-time opportunities**
 - 📍 Based in South Bekasi, Indonesia
